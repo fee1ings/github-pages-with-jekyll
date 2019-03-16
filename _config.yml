@@ -1,4 +1,7 @@
-title: Your awesome title
+---
+title: "First blog"
+date:2019-03-16
+---
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
